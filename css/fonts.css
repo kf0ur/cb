@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "VK Sans Display";
+	src: url(http://kiberbulling.net/fonts/VK\ Sans\ Display\ Light.otf) format("opentype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "VK Sans Display";
+	src: url(http://kiberbulling.net/fonts/VK\ Sans\ Display\ Regular.otf) format("opentype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "VK Sans Display";
+	src: url(http://kiberbulling.net/fonts/VK\ Sans\ Display\ Medium.otf) format("opentype");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "VK Sans Display";
+	src: url(http://kiberbulling.net/fonts/VK\ Sans\ Display\ DemiBold.otf) format("opentype");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "VK Sans Display";
+	src: url(http://kiberbulling.net/fonts/VK\ Sans\ Display\ Bold.otf) format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
